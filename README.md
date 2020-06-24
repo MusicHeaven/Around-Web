@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Geo-index based social network for nearby posts and face recognition with Cloud and React.
+This repo is the front-end part, which is created by React.
 
 ## Available Scripts
 
